@@ -46,6 +46,8 @@ section .about img{
     margin-bottom: 10px;
     text-align: justify;
     align-items: flex-start;
+    display: grid;
+    grid-template-columns: repeat(4, 24%);
 }
 
 
