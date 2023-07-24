@@ -53,8 +53,8 @@ section .about img{
 
 .items article{
     list-style:none;
-    max-width: 30%;
     margin-bottom: 24px;
+    padding: 20px;
 }
 
 .items article img{
